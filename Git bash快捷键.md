@@ -53,3 +53,5 @@ Ctrl + z：挂起命令
 ^blah^foo：将上一条命令中的 blah 替换为 foo
 ^blah^foo^：将上一条命令中所有的 blah 都替换为 foo
 ```
+#### 注意
+以上快捷键在emacs编辑模式时有效，Bash默认为emacs编辑模式。如果不在emacs编辑模式，可通过set -o emacs设置
