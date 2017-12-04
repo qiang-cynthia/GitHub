@@ -8,7 +8,6 @@
  
  #### 文档教程
  
- 
  * [Github 帮助文档](https://github.com/waylau/github-help)
  * [GitHub Guides](https://guides.github.com/)
  * [GitHub 秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) 
@@ -23,8 +22,10 @@
  
  #### 使用经验
  
- 
- * [从0开始学习 GitHub 系列](http://stormzhang.com/github/2016/05/25/learn-github-from-zero1/)
+ * 从0开始学习 GitHub 系列
+   * [初识 GitHub](http://stormzhang.com/github/2016/05/25/learn-github-from-zero1/)
+   * [加入 GitHub](http://stormzhang.com/github/2016/05/26/learn-github-from-zero2/)
+   * [Git 速成](http://stormzhang.com/github/2016/05/30/learn-github-from-zero3/)
  * [github使用笔记](http://www.jianshu.com/p/4942bbc28301)
  * [Github全程指南-如何高效使用？](https://github.com/xirong/my-git/blob/master/how-to-use-github.md) 
  * [怎样使用 GitHub？](https://www.zhihu.com/question/20070065)
@@ -47,37 +48,31 @@
  
  #### Markdown
  
-
  * [Github MarkDown语法指南](https://github.com/guodongxiaren/README)
  
  
  #### Wiki
- 
- 
+  
  * [如何编辑 Wiki](https://github.com/g0v/dev/wiki/%E5%A6%82%E4%BD%95%E7%B7%A8%E8%BC%AF-Wiki)
  
  
  #### Issue
  
-
  * [用Github issues作为blog的例子](https://github.com/lifesinger/blog/labels/blog)
  
  
  #### Gist
  
-
  * [Gist介绍与用法](http://platinhom.github.io/2015/11/26/gist/) 
  
  
  #### Pull Request
- 
- 
+  
  * [关于Pull Request的十个建议 - Mark Seemann](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/)
  * [GitHub Pull Request Tutorial](https://www.thinkful.com/learn/github-pull-request-tutorial/)
  
  
  #### GitHub Pages
-
  
  * [GitHub Pages 指南](http://jekyllcn.com/)
  * [GitHub Pages 指南 - 极客学院](http://wiki.jikexueyuan.com/project/github-pages-basics/)
@@ -93,8 +88,7 @@
  
  
  #### 开源
- 
- 
+  
  * [如何参与一个GitHub开源项目？](http://www.csdn.net/article/2014-04-14/2819293-Contributing-to-Open-Source-on-GitHub)
  * [如何在GitHub上为开源项目做贡献？](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
  * [试译：开源项目成功的十条准则](http://www.zhuangbiaowei.com/blog/?cat=31)
@@ -107,7 +101,6 @@
  
  #### 文档教程
  
-
  * [Git - Linus](https://www.youtube.com/watch?v=4XpnKHJAok8)
  * [Git教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 
  * [Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
@@ -144,7 +137,6 @@
  
 
  ## GitBook
-
 
  * [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html)
  * [Gitbook 入门教程](https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html)
