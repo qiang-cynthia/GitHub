@@ -8,7 +8,7 @@
  
  #### 文档教程
  
- ```
+ 
  * [Github 帮助文档](https://github.com/waylau/github-help)
  * [GitHub Guides](https://guides.github.com/)
  * [GitHub 秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) 
@@ -19,11 +19,11 @@
  * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
  * [GitHub入门与实践](https://book.douban.com/subject/26462816/) 
  * [Github与Git简明教程](https://github.com/lavor-zl/Github-Git)
- ```
+
  
  #### 使用经验
  
- ```
+ 
  * [从0开始学习 GitHub 系列](http://stormzhang.com/github/2016/05/25/learn-github-from-zero1/)
  * [github使用笔记](http://www.jianshu.com/p/4942bbc28301)
  * [Github全程指南-如何高效使用？](https://github.com/xirong/my-git/blob/master/how-to-use-github.md) 
@@ -43,42 +43,42 @@
  * [如果你用GitHub，可以这样提高效率](http://huang-jerryc.com/2016/01/15/%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%94%A8GitHub%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87/)
  * [如何用好github中的watch、star、fork](http://www.jianshu.com/p/6c366b53ea41)
  * [在github上写博客](http://www.jianshu.com/p/1260517bbedb) 
- ```
+ 
  
  #### Markdown
  
- ```
+
  * [Github MarkDown语法指南](https://github.com/guodongxiaren/README)
- ```
+ 
  
  #### Wiki
  
- ```
+ 
  * [如何编辑 Wiki](https://github.com/g0v/dev/wiki/%E5%A6%82%E4%BD%95%E7%B7%A8%E8%BC%AF-Wiki)
- ```
+ 
  
  #### Issue
  
- ```
+
  * [用Github issues作为blog的例子](https://github.com/lifesinger/blog/labels/blog)
- ```
+ 
  
  #### Gist
  
- ```
+
  * [Gist介绍与用法](http://platinhom.github.io/2015/11/26/gist/) 
- ```
+ 
  
  #### Pull Request
  
- ```
+ 
  * [关于Pull Request的十个建议 - Mark Seemann](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/)
  * [GitHub Pull Request Tutorial](https://www.thinkful.com/learn/github-pull-request-tutorial/)
- ```
+ 
  
  #### GitHub Pages
 
- ```
+ 
  * [GitHub Pages 指南](http://jekyllcn.com/)
  * [GitHub Pages 指南 - 极客学院](http://wiki.jikexueyuan.com/project/github-pages-basics/)
  * [jekyll官方文档中文翻译版](http://jekyllcn.com/)
@@ -90,24 +90,24 @@
  * [简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2)
  * [Hexo中文版](https://hexo.io/zh-cn/)
  * [像geek一样写博客](http://wiki.jikexueyuan.com/project/github-page/)
- ```
+ 
  
  #### 开源
  
- ```
+ 
  * [如何参与一个GitHub开源项目？](http://www.csdn.net/article/2014-04-14/2819293-Contributing-to-Open-Source-on-GitHub)
  * [如何在GitHub上为开源项目做贡献？](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
  * [试译：开源项目成功的十条准则](http://www.zhuangbiaowei.com/blog/?cat=31)
  * [漫谈Github与开源](http://www.wdk.pw/802.html)
  * [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
  * [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source)
- ```
+
   
  ## Git
  
  #### 文档教程
  
- ```
+
  * [Git - Linus](https://www.youtube.com/watch?v=4XpnKHJAok8)
  * [Git教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 
  * [Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
@@ -141,13 +141,13 @@
  * [多用Git少交税](http://www.jianshu.com/p/8a985c622e61)
  * [Git版本控制与工作流](http://www.jianshu.com/p/67afe711c731)
  * [Top 10 Git Tutorials for Beginners](http://sixrevisions.com/resources/git-tutorials-beginners/)
- ```
+ 
 
  ## GitBook
 
- ```
+
  * [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html)
  * [Gitbook 入门教程](https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html)
  * [Gitbook 使用入门](https://github.com/wwq0327/gitbook-zh)
  * [Gitbook api-guide](https://github.com/GitbookIO/api-guide)
- ```
+ 
