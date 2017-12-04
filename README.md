@@ -25,6 +25,7 @@
  
  ```
  * [从0开始学习 GitHub 系列](http://stormzhang.com/github/2016/05/25/learn-github-from-zero1/)
+ * [github使用笔记](http://www.jianshu.com/p/4942bbc28301)
  * [Github全程指南-如何高效使用？](https://github.com/xirong/my-git/blob/master/how-to-use-github.md) 
  * [怎样使用 GitHub？](https://www.zhihu.com/question/20070065)
  * [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)
