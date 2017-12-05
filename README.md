@@ -11,7 +11,6 @@
 * [GitHub 开发指南](http://wiki.jikexueyuan.com/project/github-developer-guides/)
 * [Git/GitHub guide](http://kbroman.org/github_tutorial/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
-* [GitHub入门与实践](https://book.douban.com/subject/26462816/) 
 * [Github与Git简明教程](https://github.com/lavor-zl/Github-Git)
 
 
