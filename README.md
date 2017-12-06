@@ -1,3 +1,4 @@
+
 # Git及GitHub使用说明
 
 ## GitHub使用
@@ -19,7 +20,8 @@
 * 从0开始学习 GitHub 系列
   * [初识 GitHub](http://stormzhang.com/github/2016/05/25/learn-github-from-zero1/)
   * [加入 GitHub](http://stormzhang.com/github/2016/05/26/learn-github-from-zero2/)   
-  * [Git 速成](http://stormzhang.com/github/2016/05/30/learn-github-from-zero3/)
+  * [Git 速成](http://stormzhang.com/github/2016/05/30/learn-github-from-zero3/)
+* [在Github和Git上fork之简单指南](https://linux.cn/article-4292-1.html)
 * [github使用笔记](http://www.jianshu.com/p/4942bbc28301)
 * [Github全程指南-如何高效使用？](https://github.com/xirong/my-git/blob/master/how-to-use-github.md) 
 * [怎样使用 GitHub？](https://www.zhihu.com/question/20070065)
