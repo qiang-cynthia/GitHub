@@ -6,7 +6,7 @@
 #### 文档教程
 
 * [Github 帮助文档](https://github.com/waylau/github-help)
-* [GitHub Guides](https://guides.github.com/)
+* [GitHub Guides](https://guides.github.com/) - 官方向导
 * [GitHub 秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) 
 * [GitHub-guide](https://github.com/district10/github-guide)
 * [GitHub 开发指南](http://wiki.jikexueyuan.com/project/github-developer-guides/)
