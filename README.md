@@ -101,6 +101,7 @@
 
 #### 文档教程
 
+* [Git入门](https://backlog.com/git-tutorial/cn/)
 * [Git - Linus](https://www.youtube.com/watch?v=4XpnKHJAok8)
 * [Git教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 
 * [Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
