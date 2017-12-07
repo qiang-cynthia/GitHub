@@ -47,6 +47,10 @@
 * [Github MarkDown语法指南](https://github.com/guodongxiaren/README)
 
 
+#### 分支管理
+
+* [Git分支管理策略](http://www.ruanyifeng.com/blog/2012/07/git.html)
+
 #### Wiki
 
 * [如何编辑 Wiki](https://github.com/g0v/dev/wiki/%E5%A6%82%E4%BD%95%E7%B7%A8%E8%BC%AF-Wiki)
